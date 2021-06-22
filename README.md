@@ -21,4 +21,5 @@ const thai = {
     challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
 ---
