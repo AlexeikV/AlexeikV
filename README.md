@@ -3,6 +3,8 @@
 <p><em>Computer System Enginner at <a href="https://www.escom.ipn.mx">ESCOM - IPN </a> 
 <br> RPA Solution Architect</a>
 </em></p>
+<p><em>My Web page: <a href="https://alexeik.lat/">https://alexeik.lat/ </a> 
+</em></p>
 
 [![Twitter: EAlexeik](https://img.shields.io/twitter/follow/EAlexeik?style=social)](https://twitter.com/EAlexeik)
 [![Linkedin: AlexeikValdez](https://img.shields.io/badge/-AlexeikValdez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-alexeik-valdez-sanchez-34906b127/)](https://www.linkedin.com/in/eduardo-alexeik-valdez-sanchez-34906b127/)
