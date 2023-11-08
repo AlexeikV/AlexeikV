@@ -1,7 +1,7 @@
 <h2> Hey, I'm Alexeik!</h2>
 
 <p><em>Computer System Enginner at <a href="https://www.escom.ipn.mx">ESCOM - IPN </a> 
-<br>IT Specialist at <a href="https://www.lala.com.mx">Grupo LALA</a>
+<br> RPA Solution Architect</a>
 </em></p>
 
 [![Twitter: EAlexeik](https://img.shields.io/twitter/follow/EAlexeik?style=social)](https://twitter.com/EAlexeik)
