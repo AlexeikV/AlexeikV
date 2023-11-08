@@ -15,7 +15,7 @@ Sth about me...
 const thai = {
     pronouns: "he" | "his",
     code: [Javascript, HTML, CSS, Python, Java, SQL, PLSQL],
-    tools: [React, Node, UiPath, AutomationAnyWhere, Azure, Docker],
+    tools: [React, Node, BluePrism, UiPath, AutomationAnyWhere, Power Automate, Rocket Bot, Azure, Docker],
     managment: ["Scrum", "Kanban", "XP"],
     solutions: ["UX", "Design Thinking"],
     challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
