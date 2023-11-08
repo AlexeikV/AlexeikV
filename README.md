@@ -14,7 +14,7 @@ Sth about me...
 ```javascript
 const thai = {
     pronouns: "he" | "his",
-    code: [Javascript, HTML, CSS, Python, Java, SQL, PLSQL],
+    code: [Javascript, HTML, CSS, Python, Java, SQL, PLSQL, VB.NET, C#],
     tools: [React, Node, BluePrism, UiPath, AutomationAnyWhere, Power Automate, Rocket Bot, Azure, Docker],
     managment: ["Scrum", "Kanban", "XP"],
     solutions: ["UX", "Design Thinking"],
